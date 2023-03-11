@@ -24,6 +24,3 @@
 [![Sorgg66 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sorgg66&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Sorgg66 Github stats-Light](https://github-readme-stats.vercel.app/api?username=Sorgg66&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-##
-
-![snake gif](https://github.com/Sorgg66/Sorgg66/blob/output/github-contribution-grid-snake.svg)
