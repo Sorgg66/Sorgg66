@@ -1,6 +1,5 @@
 ## Gio :coffee:
 #### Seja bem vindo!
-- Cursando Engenharia de Software
 - Por ai fazendo freelance
 - Futuro Dev Full-Stack
 
