@@ -1,7 +1,7 @@
 ## Gio :coffee:
 #### Seja bem vindo!
 - Por ai fazendo freelance
-- Futuro Dev Full-Stack
+- InfoSec :computer:
 <div style="display: inline_block"><br>
 <img align="right" alt="Yoda" src="https://media.tenor.com/VB2oZ6VnfgEAAAAj/baby-yoda-star-wars.gif"
 </div>
